@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Breno Alves 👍
-![Breno Github stats](https://github-readme-stats.vercel.app/api?username=Balves129&show_icons=true&theme=tokyonight)
+
 
 ### Tecnologias que eu utilizo
 
